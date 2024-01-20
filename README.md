@@ -25,5 +25,5 @@
 <a href="https://t.me/vasyl_lepish" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:lepish.vasyl@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-Thank you for your interest in my humble personality. I am always open to new acquaintances, so feel free to write or call! :)
+<h3 align="center">Thank you for your interest in my humble personality. I am always open to new acquaintances, so feel free to write or call! 👋 </h3>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
