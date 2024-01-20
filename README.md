@@ -19,17 +19,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=AlessioItaliano&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioItaliano&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlessioItaliano&theme=dark&hide_border=false&include_all_commits=false&count_private=true&height=200)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioItaliano&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&height=200)
-
-
-
 <h2 align="center">🌐 My Contacts: </h2>
-<div align="center">
+
  <a href="https://www.linkedin.com/in/vasyl-lepish/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://t.me/vasyl_lepish" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:lepish.vasyl@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-</div>
+
 
 <h3 align="center">Thank you for your interest in my humble personality. I am always open to new acquaintances, so feel free to write or call! 👋 </h3>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
